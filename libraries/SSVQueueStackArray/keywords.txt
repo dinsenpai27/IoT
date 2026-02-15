@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For SSVQueueStackArray
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SSVQueueStackArray	KEYWORD1
+PTFSAction	KEYWORD1
+StorageType	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+push	KEYWORD2
+pop	KEYWORD2
+peek	KEYWORD2
+isEmpty	KEYWORD2
+isFull	KEYWORD2
+getSize	KEYWORD2
+getDataByIndex	KEYWORD2
+setPTFSAction	KEYWORD2
+getPTFSAction	KEYWORD2
+setStorageType	KEYWORD2
+getStorageType	KEYWORD2
+resize	KEYWORD2
+resetData	KEYWORD2
+normalizeStorage	KEYWORD2
+getCount	KEYWORD2
+peekNewest	KEYWORD2
+peekOldest	KEYWORD2
+popNewest	KEYWORD2
+popOldest	KEYWORD2
